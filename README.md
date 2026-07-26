@@ -1,5 +1,4 @@
-# Skyward — Flappy Bird ✨
-
+# Skyward — Flappy Bird 
 A beautiful flappy-bird-style game with dynamic sky gradients, parallax clouds, particle effects, and collectible star coins.
 
 [![CI](https://github.com/YOUR_USERNAME/skyward/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/skyward/actions)
